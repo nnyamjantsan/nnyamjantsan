@@ -1,5 +1,5 @@
 - Name is Nyamjantsan, "Lazy" Nyamjantsan
 - Likes coding and stuff
 - Trying to create my first game ATM
-- Learning Unity at very slow pace
+- Learning Unity at very slow pace and Machine Learning even slower pace
 - nnyamjantsan@gmail.com
