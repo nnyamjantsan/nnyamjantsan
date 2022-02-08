@@ -1,0 +1,5 @@
+- Name is Nyamjantsan, "Lazy" Nyamjantsan
+- Likes coding and stuff
+- Trying to create my first game ATM
+- Learning Unity at very slow pace
+- nnyamjantsan@gmail.com
